@@ -44,6 +44,9 @@
     },
     {
       "site-package": "typing_inspect"
+    },
+    {
+      "site_package": "fbpcs"
     }
   ],
   "source_directories": [
